@@ -1,6 +1,6 @@
-### Hi there, I'm AURA-69! 👋
+### Hi there, I'm AURA! 👋
 
-I'm passionate about modding in The Legend of Zelda: Breath of the Wild and The Outer Worlds, along with exploring various aspects of Nintendo Switch development. Welcome to my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or if there's something you'd like to collaborate on.
+I'm passionate about modding in The Legend of Zelda: Breath of the Wild and Tears of the Kingdom, along with exploring various aspects of Nintendo Switch development. Welcome to my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or if there's something you'd like to collaborate on.
 
 🔭 **Currently Working On:**
 - Enhancing Breath of the Wild/TOTK mods to create a more immersive gaming experience.
